@@ -26,7 +26,7 @@
 class PrakharPandey:
     def __init__(self):
         self.name        = "Prakhar Pandey"
-        self.degree      = "B.Tech (Hons) — Data Science & AI @ IIT Guwahati (2023–27)"
+        self.degree      = "B.Sc (Hons) — Data Science & AI @ IIT Guwahati (2023–27)"
         self.experience  = [
             "AI Product Engineer Intern @ ThinkSpace AI, Singapore",
             "AI Engineer Intern @ Compeers AI, United States",
