@@ -1,196 +1,246 @@
-<div align="center">   
+<div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Prakhar%20Pandey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20AI%20Engineer%20%7C%20IIT%20Guwahati%20DSAI&descAlignY=60&descSize=18&descColor=a78bfa" width="100%"/>
+<!-- ===== HERO BANNER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Prakhar%20Pandey&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20ship%20AI%20products.%20End-to-end.%20Solo.%20Fast.&descAlignY=58&descSize=20&descColor=c4b5fd" width="100%"/>
 
-<!-- Typing Animation -->
+<!-- ===== TYPING TAGLINE ===== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Shipped+2+production+products+to+1000%2B+users+%F0%9F%9A%80;Built+RAG+pipelines+%40+US+%26+Singapore+startups;LangChain+%7C+LangGraph+%7C+RAG+%7C+Autonomous+Agents;End-to-end%2C+solo%2C+and+fast.+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=820&lines=Founding-team+AI+Engineer+%E2%80%A2+IIT+Guwahati+%E2%80%A2+DSAI+'27;2+production+products+%E2%86%92+1%2C000%2B+real+users+%E2%80%A2+zero+marketing;Built+RAG+%2F+agents+%2F+LLM+pipelines+%40+US+%26+SG+startups;LangGraph+%E2%80%A2+RAG+%E2%80%A2+Autonomous+Agents+%E2%80%A2+FastAPI+%E2%80%A2+Next.js" alt="tagline"/>
 </a>
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-pandey-56267a2a2/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prakhar-pandey-github-io.vercel.app)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/prakhar3104)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prakhar1605)
-![Profile Views](https://komarev.com/ghpvc/?username=prakhar1605&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+<!-- ===== SOCIAL ROW ===== -->
+<a href="https://www.linkedin.com/in/prakhar-pandey-56267a2a2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://prakhar-pandey-github-io.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:prakhar9999pandey@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/prakhar3104"><img src="https://img.shields.io/badge/LeetCode_1660-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<img src="https://komarev.com/ghpvc/?username=prakhar1605&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 
 </div>
 
----
+<br/>
 
-## `> whoami`
+<!-- ===== PITCH ===== -->
+<div align="center">
 
-```python
-class PrakharPandey:
-    def __init__(self):
-        self.name        = "Prakhar Pandey"
-        self.degree      = "B.Sc (Hons) — Data Science & AI @ IIT Guwahati (2023–27)"
-        self.experience  = [
-            "AI Product Engineer Intern @ ThinkSpace AI, Singapore",
-            "AI Engineer Intern @ Compeers AI, United States",
-        ]
-        self.shipped     = "2 production products → 1000+ real users, solo"
-        self.leetcode    = "Rating 1660 | Top 16.49% | 610+ problems solved"
-        self.certs       = ["IIM Ahmedabad — Leadership", "UPenn — Entrepreneurship", "IBM & Google — Python/AI"]
-        self.philosophy  = "End-to-end. Solo. Fast. 🚀"
+### `I don't build AI demos. I ship products people use.`
 
-    def say_hi(self):
-        return "I don't just build AI demos — I ship products people actually use."
-```
+<sub>Currently: shipping production LLM systems at <b>ThinkSpace AI (Singapore)</b> — building the next thing for founding teams.</sub>
+
+</div>
+
+<br/>
 
 ---
 
-## `> cat experience.log`
+## <samp>01 / Currently</samp>
 
+```ts
+const prakhar = {
+  role:      "AI Product Engineer @ ThinkSpace AI · Singapore (founding team)",
+  studying:  "B.Sc (Hons) Data Science & AI · IIT Guwahati · 2023–27",
+  shipped:   ["Drona AI — 500+ users", "CareerLift — 500+ users"],
+  lastWeek:  "Built sentence-level RAG with clickable citations (90%+ accuracy)",
+  building:  "Multi-doc agentic AI · LangGraph · MCP · production RAG",
+  open_to:   ["AI/ML internships", "Founding-team AI roles", "LLM research collabs"],
+};
 ```
-▸ ThinkSpace AI — Singapore                           [Dec 2025 – Feb 2026]
-  AI Product Engineer Intern (Founding Team)
-  → Built NotebookLM-style multi-doc AI with clickable source citations (90%+ accuracy)
-  → Architected sentence-level RAG pipeline → 2–3x faster query resolution
-  → All LLM outputs: fully grounded, traceable, production-ready
 
-▸ Compeers AI — United States                         [Sep 2025 – Dec 2025]
-  AI Engineer Intern
-  → Built B2B company intelligence prototype for LLM-based startup analysis
-  → Automated cultural trend pipeline: Twitter/Reddit scraping → NLP → insight reports
-  → Replaced entire manual research workflow, end-to-end
-```
+<br/>
 
 ---
 
-## `> ls ./shipped_products`
+## <samp>02 / Experience</samp>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Drona AI](https://dronaai.in) — Autonomous Interview Agent
-> *500+ users in 2 weeks. Zero paid marketing.*
+### <samp>🇸🇬 ThinkSpace AI</samp>
+**AI Product Engineer · Founding Team**
+`Dec 2025 — Feb 2026 · Singapore`
 
-- 🧠 Adaptive difficulty engine + long-term memory via **ChromaDB + RAG**
-- ⚡ Real-time **token-streaming** LLM responses
-- 🔄 **Redis caching** for scalable concurrent sessions
-- 🎯 Zero-downtime production deployment
-- 📌 Actively used by IIT students for placement prep
+> *NotebookLM-class product for enterprise docs.*
 
-`Python` `Streamlit` `ChromaDB` `Redis` `RAG` `OpenAI`
+— Architected **sentence-level RAG** w/ clickable source citations, **90%+ retrieval accuracy**
+— Cut query latency **2–3×** via async pipeline + vector caching
+— All LLM outputs **fully grounded** — zero hallucination tolerance, audit-traceable
+
+`LangChain` `LangGraph` `RAG` `FastAPI` `Vector DBs`
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 [CareerLift](https://carrerlift.in) — AI Career Platform
-> *500+ users. Built full-stack, solo.*
+### <samp>🇺🇸 Compeers AI</samp>
+**AI Engineer Intern**
+`Sep 2025 — Dec 2025 · United States`
 
-- 📋 Aggregates **live jobs + 1500+ IIT professor** research opportunities
-- 🧠 **LLM-based resume analyzer** + skill gap detection
-- 📧 Automated daily job alert emails via **cron + Supabase + Resend**
-- 👥 Adopted by 200+ IITians organically
+> *B2B company intelligence — automated what 5 analysts did manually.*
 
-`JavaScript` `Next.js` `Supabase` `OpenAI API` `Vercel`
+— Built LLM-based **startup intelligence prototype** for B2B research
+— Automated cultural-trend pipeline: **Twitter + Reddit scraping → NLP → insight reports**
+— **Replaced** the entire manual research workflow, end-to-end
+
+`Python` `LLMs` `NLP` `Web Scraping` `Pipelines`
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
 
-## `> tech_stack --full`
+## <samp>03 / Shipped</samp>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <div align="center">
 
-### 🤖 AI / LLM Stack
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-7c3aed?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Systems-FF4500?style=for-the-badge&logo=databricks&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0099CC?style=for-the-badge&logo=meta&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-00C9A7?style=for-the-badge&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP%2FFastMCP-black?style=for-the-badge&logoColor=white)
+### 🤖 [**Drona AI**](https://dronaai.in)
+**Autonomous Interview Agent**
 
-### 🧠 ML / DL
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logoColor=white)
-
-### ⚙️ Full Stack & Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🗄️ Databases & Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+`500+ users · 2 weeks · 0$ marketing`
 
 </div>
 
----
+— **Adaptive difficulty engine** + long-term memory via **ChromaDB + RAG**
+— **Token-streaming** LLM responses (real-time, < 200ms TTFT)
+— **Redis caching** → handles concurrent sessions at scale
+— **Zero-downtime** deploys · used by IIT students for placement prep
 
-## `> git log --stat`
+<sub>`Python` `Streamlit` `ChromaDB` `Redis` `RAG` `OpenAI`</sub>
+
+</td>
+<td width="50%" valign="top">
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prakhar1605&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar1605&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
+### 🚀 [**CareerLift**](https://carrerlift.in)
+**AI Career Platform**
+
+`500+ users · solo full-stack · 200+ IITians`
+
+</div>
+
+— Aggregates **live jobs + 1,500+ IIT professor** research roles
+— **LLM resume analyzer** + skill-gap detection
+— Daily job alerts via **cron + Supabase + Resend**
+— Adopted **organically** by 200+ IITians
+
+<sub>`Next.js` `Supabase` `OpenAI API` `Vercel` `Cron`</sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=prakhar1605&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
-## `> cat activity_graph.svg`
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakhar1605&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff" width="95%"/>
-</div>
-
----
-
-## `> cat achievements.txt`
-
-```
-🏆  LeetCode Rating  →  1660  |  Top 16.49%  |  610+ problems solved
-🎓  IIM Ahmedabad   →  Foundations of Leadership & Management
-🌍  Univ. of Pennsylvania → Entrepreneurship 1 & 2
-🤖  IBM             →  Python for Data Science, AI & Development
-🔍  Google          →  Get Started with Python
-```
-
----
-
-## `> ping me`
+## <samp>04 / Stack</samp>
 
 <div align="center">
 
-> *Open to AI/ML internships, LLM research collabs & founding-team AI roles.*
+**`AI / LLMs`** &nbsp; the stuff I actually ship with
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-7c3aed?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-FF4500?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-0099CC?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-00C9A7?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<br/><br/>
+
+**`Backend / Infra`**
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker,redis,postgres,mongodb,mysql&theme=dark"/>
+
+<br/><br/>
+
+**`Frontend`**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vercel&theme=dark"/>
+
+<br/><br/>
+
+**`Tools`**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,figma&theme=dark"/>
+
+</div>
+
+<br/>
+
+---
+
+## <samp>05 / GitHub</samp>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prakhar1605&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=a78bfa"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar1605&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=prakhar1605&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" width="95%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prakhar1605&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed" width="95%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=prakhar1605&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
+
+</div>
+
+<br/>
+
+---
+
+## <samp>06 / Wins</samp>
+
+```diff
++ LeetCode 1660  ·  Top 16.49% globally  ·  610+ problems
++ IIM Ahmedabad  ·  Foundations of Leadership & Management
++ UPenn          ·  Entrepreneurship I & II
++ IBM            ·  Python for Data Science, AI & Development
++ Google         ·  Python Foundations
+```
+
+<br/>
+
+---
+
+## <samp>07 / Building philosophy</samp>
+
+> ### *"Demos impress. Products compound."*
 >
-> *Building something real at the intersection of LLMs and product? Let's talk.*
+> I optimise for **shipped > polished**, **users > screenshots**, **end-to-end > one slice**.
+> If you're a founder building something real with LLMs — let's talk.
 
-[![LinkedIn](https://img.shields.io/badge/DM_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-pandey-56267a2a2/)
-[![Portfolio](https://img.shields.io/badge/See_My_Work-000?style=for-the-badge&logo=vercel&logoColor=white)](https://prakhar-pandey-github-io.vercel.app)
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakhar9999pandey@gmail.com)
-
-</div>
-
----
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/Let's_talk_%E2%86%92-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-pandey-56267a2a2/)
+[![Portfolio](https://img.shields.io/badge/See_my_work_%E2%86%92-000?style=for-the-badge&logo=vercel&logoColor=white)](https://prakhar-pandey-github-io.vercel.app)
+[![Email](https://img.shields.io/badge/Email_me_%E2%86%92-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakhar9999pandey@gmail.com)
 
-*⭐ If something here helped you — star a repo. It costs nothing and means everything.*
+</div>
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+<div align="center">
+<sub><i>⭐ If anything here resonates — star a repo. Costs nothing, means everything.</i></sub>
 </div>
