@@ -40,7 +40,7 @@
 const prakhar = {
   role:      "AI Product Engineer @ ThinkSpace AI · Singapore (founding team)",
   studying:  "B.Sc (Hons) Data Science & AI · IIT Guwahati · 2023–27",
-  shipped:   ["Drona AI — 500+ users", "CareerLift — 500+ users"],
+  shipped:   ["Drona AI — 500+ users", "CareerLift — 2000+ users"],
   lastWeek:  "Built sentence-level RAG with clickable citations (90%+ accuracy)",
   building:  "Multi-doc agentic AI · LangGraph · MCP · production RAG",
   open_to:   ["AI/ML internships", "Founding-team AI roles", "LLM research collabs"],
