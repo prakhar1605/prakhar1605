@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ===== HERO BANNER ===== -->
+<!-- ===== HERO BANNER ===== --> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Prakhar%20Pandey&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20ship%20AI%20products.%20End-to-end.%20Solo.%20Fast.&descAlignY=58&descSize=20&descColor=c4b5fd" width="100%"/>
 
 <!-- ===== TYPING TAGLINE ===== -->
