@@ -1,4 +1,4 @@
-<h1>Hi, I'm Prakhar 👋</h1>
+<h1>Hi, I'm Prakhar </h1>
 
 I build AI products end-to-end — RAG pipelines, agentic systems, and the full stack around them. Currently studying **Data Science & AI at IIT Guwahati** ('27), and shipping production LLM systems on the side.
 
