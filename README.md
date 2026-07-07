@@ -10,7 +10,7 @@ I build AI products end-to-end — RAG pipelines, agentic systems, and the full 
 
 ### Currently
 
-**🚣 AI Solution intern · Rowboat Labs (YC S24)** 
+** AI Solution intern · Rowboat Labs (YC S24)** 
 Building agentic workflows and background task agents for an open-source AI coworker platform — **15k+ ⭐ on GitHub**. Shipping agents that operate over persistent knowledge graphs dynamically constructed from user emails and meeting notes, in a TypeScript-first codebase. Working directly with both co-founders on multi-step agent orchestration and reliability in production.
 `TypeScript` `Agent Orchestration` `Knowledge Graphs` `LLM Pipelines`
 
