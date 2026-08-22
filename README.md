@@ -1,6 +1,6 @@
 # Hi, I'm Prakhar 👋
 
-Final-year **B.S. (Honors) in Data Science & AI, IIT Guwahati** ('27). I build AI products end-to-end — agentic systems, RAG, and the full stack around them.
+Final-year  in Data Science & AI, IIT Guwahati** ('27). I build AI products end-to-end — agentic systems, RAG, and the full stack around them.
 
 <a href="https://www.linkedin.com/in/prakhar-pandey-56267a2a2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://prakhar-pandey-github-io.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white"/></a>
