@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Multi-agent+systems+%40+RAIVN+Lab%2C+UW;Shipped+Skills+%2B+OAuth+into+a+15k%E2%AD%90+agent+platform;11%2C000%2B+organic+users+across+2+solo-built+products;LeetCode+1710+%C2%B7+400%2B+day+streak" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Multi-agent+systems+%40+RAIVN+Lab%2C+UW;Shipped+Skills+%2B+OAuth+into+a+15k%E2%AD%90+agent+platform;11%2C000%2B+organic+users+on+products+I+built+solo;LeetCode+1710+%C2%B7+400%2B+day+streak" alt="typing"/>
 
 <br/>
 
@@ -58,6 +58,7 @@ Shipped **Skills** (agents load instruction sets + tools on demand, as installab
 ## ⏪ Past
 
 **🏗️ Founding Engineer Intern · ThinkSpace AI** *(Singapore)* — Multi-doc research assistant in Electron: sentence-window RAG with page-coordinate-anchored citations across PDF/DOCX, Drive and live web; validated by a legal QA team on a ~100-question gold standard.
+
 **📊 AI Engineer Intern · Compeers AI** *(US)* — Two market-research tools for a B2B intelligence platform: a 4-module SWOT pipeline (Search → PDF/CSV → SEC EDGAR → Trends) and a Reddit audience profiler.
 
 <br/>
@@ -69,7 +70,7 @@ Shipped **Skills** (agents load instruction sets + tools on demand, as installab
 <td width="50%" valign="top">
 
 ### 🎯 [CareerLift](https://carrerlift.in)
-![Users](https://img.shields.io/badge/users-10%2C000%2B%20organic-3fb950?style=flat-square) ![Live](https://img.shields.io/badge/status-live-success?style=flat-square)
+**10,000+ organic users · Live**
 
 LLM agents parse your resume, semantically match it against live listings and **1,500+ IIT professor research roles**, return ranked roles with skill-gap analysis. Jobs pipeline refreshes **3,500+ openings every 12–24h**, zero manual curation.
 
@@ -79,7 +80,7 @@ LLM agents parse your resume, semantically match it against live listings and **
 <td width="50%" valign="top">
 
 ### 🧠 [Drona AI](https://dronaai.in)
-![Users](https://img.shields.io/badge/users-1%2C000%2B%20organic-3fb950?style=flat-square) ![Live](https://img.shields.io/badge/status-live-success?style=flat-square)
+**1,000+ organic users · Live**
 
 Autonomous mock-interview agent: role-specific questions from an uploaded PDF, difficulty tuned on a rolling performance window, streamed feedback report. Re-architected Streamlit → serverless Next.js at **zero infra cost**.
 
@@ -91,7 +92,7 @@ Autonomous mock-interview agent: role-specific questions from an uploaded PDF, d
 <td colspan="2" valign="top">
 
 ### 🔌 [OpenCollab MCP](https://github.com/prakhar1605/Opencollab-mcp)
-![](https://img.shields.io/github/stars/prakhar1605/Opencollab-mcp?style=flat-square&color=ffd700) ![](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
+**Open source · MIT**
 
 MCP server for open-source contributors — skill-matched "good first issues", repo health scoring, PR plans. Zero-infra STDIO deploy via `uvx`.
 
@@ -130,17 +131,12 @@ MCP server for open-source contributors — skill-matched "good first issues", r
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prakhar1605&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true"/>
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=prakhar1605&theme=tokyonight&hide_border=true&background=0d1117"/>
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar1605&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8"/>
 <img height="170" src="https://leetcard.jacoblin.cool/prakhar3104?theme=dark&font=Fira%20Code&ext=contest"/>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=prakhar1605&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
 
 </div>
 
