@@ -26,7 +26,7 @@ Shipped Skills (agents load instruction sets and tools on demand, as installable
 
 ### Things I've built
 
-**[CareerLift](https://carrerlift.in)** — 10,000+ organic users
+**[CareerLift](https://carrerlift.in)** — 25,000+ organic users
 LLM agents parse your resume, semantically match it against live job listings and 1,500+ IIT professor research roles, and return ranked roles with skill-gap analysis. A jobs pipeline refreshes 3,500+ openings every 12–24 hours with no manual curation.
 
 **[Drona AI](https://dronaai.in)** — 1,000+ organic users
