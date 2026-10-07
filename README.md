@@ -4,7 +4,7 @@
 
 I build AI products from user problems through implementation, launch, and iteration. My work spans open-source agent tooling at Rowboat Labs, independently built products like CareerLift and Drona AI, and browser-agent research at the University of Washington.
 
-30+ merged PRs at Rowboat Labs (YC S24). Solo-built CareerLift with 25,000+ organic users. Sole author of a paper accepted at a NeurIPS 2026 workshop.
+**30+ merged PRs at Rowboat Labs (YC S24) · CareerLift: 25,000+ organic users and 100+ paid users within one week of premium launch · Sole author of a paper accepted at a NeurIPS 2026 workshop.**
 
 B.S. (Honors) in Data Science & AI, IIT Guwahati · Expected August 2027.
 
@@ -47,7 +47,7 @@ Shipped two market-research tools for a B2B intelligence platform: an SEC EDGAR 
 ### Products & Open Source
 
 **[CareerLift](https://carrerlift.in) — AI Career Platform**  
-*25,000+ organic users · 100+ paid users within 15 days of premium launch*
+**25,000+ organic users · 100+ paid users within one week of premium launch**
 
 Designed, built, and operate the product independently. Resume parsing, embeddings, vector search, and AI fit assessment help users find relevant jobs and research opportunities, with skill-gap analysis.
 
@@ -70,11 +70,11 @@ An MCP server that helps contributors find skill-matched issues, assess reposito
 
 ---
 
-### Research
+### Research — NeurIPS 2026 Workshop Acceptance
 
 **[Navigating Epistemic Parity in LLM Agents](https://doi.org/10.5281/zenodo.21533560)**  
 **Accepted at the NeurIPS 2026 workshop “Who Verifies the Agents?”**  
-*Sole author · Workshop scheduled for December 2026 · Zenodo preprint available*
+*Sole author · December 2026 workshop · Zenodo preprint available*
 
 Built a 52-scenario benchmark studying how agents respond when injected memory conflicts with procedural skill instructions.
 
