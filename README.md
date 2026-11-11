@@ -1,6 +1,6 @@
 ## Hi, I'm Prakhar
 
-AI engineer building agents and tools. Final-year B.S. (Honors) student in Data Science & AI at IIT Guwahati.
+AI engineer building agents and tools. Final-year student in Data Science & AI at IIT Guwahati.
 
 ### Experience
 
